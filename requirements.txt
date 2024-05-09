@@ -1,4 +1,5 @@
 langchain_openai 
+langchain
 langchain_core
 python-dotenv
 streamlit
@@ -18,3 +19,4 @@ langchain-groq
 wikipedia
 arxiv
 langchainhub
+sentence_transformers
