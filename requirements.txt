@@ -20,3 +20,5 @@ wikipedia
 arxiv
 langchainhub
 sentence_transformers
+langchain-groq
+cassio
